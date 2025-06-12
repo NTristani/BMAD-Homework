@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NicTr\\Tristani_TakeHomeAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC31EA91-668B-3C25-E2F5-43F85794CFDF}|Assembly-CSharp.csproj|C:\\Users\\NicTr\\Tristani_TakeHomeAssignment\\assets\\calculatormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC31EA91-668B-3C25-E2F5-43F85794CFDF}|Assembly-CSharp.csproj|solutionrelative:assets\\calculatormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC31EA91-668B-3C25-E2F5-43F85794CFDF}|Assembly-CSharp.csproj|C:\\Users\\NicTr\\Tristani_TakeHomeAssignment\\assets\\orientationswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC31EA91-668B-3C25-E2F5-43F85794CFDF}|Assembly-CSharp.csproj|solutionrelative:assets\\orientationswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC31EA91-668B-3C25-E2F5-43F85794CFDF}|Assembly-CSharp.csproj|C:\\Users\\NicTr\\Tristani_TakeHomeAssignment\\assets\\calculatorstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC31EA91-668B-3C25-E2F5-43F85794CFDF}|Assembly-CSharp.csproj|solutionrelative:assets\\calculatorstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorState.cs",
+              "DocumentMoniker": "C:\\Users\\NicTr\\Tristani_TakeHomeAssignment\\Assets\\CalculatorState.cs",
+              "RelativeDocumentMoniker": "Assets\\CalculatorState.cs",
+              "ToolTip": "C:\\Users\\NicTr\\Tristani_TakeHomeAssignment\\Assets\\CalculatorState.cs",
+              "RelativeToolTip": "Assets\\CalculatorState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:16:39.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrientationSwitcher.cs",
+              "DocumentMoniker": "C:\\Users\\NicTr\\Tristani_TakeHomeAssignment\\Assets\\OrientationSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\OrientationSwitcher.cs",
+              "ToolTip": "C:\\Users\\NicTr\\Tristani_TakeHomeAssignment\\Assets\\OrientationSwitcher.cs",
+              "RelativeToolTip": "Assets\\OrientationSwitcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:06:49.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorManager.cs",
+              "DocumentMoniker": "C:\\Users\\NicTr\\Tristani_TakeHomeAssignment\\Assets\\CalculatorManager.cs",
+              "RelativeDocumentMoniker": "Assets\\CalculatorManager.cs",
+              "ToolTip": "C:\\Users\\NicTr\\Tristani_TakeHomeAssignment\\Assets\\CalculatorManager.cs",
+              "RelativeToolTip": "Assets\\CalculatorManager.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAmwAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:08:26.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
